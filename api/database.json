@@ -1,0 +1,128 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "maude"
+    },
+    {
+      "id": 2,
+      "name": "merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestedId": 6,
+      "plumberId": 1,
+      "date_created": 1660318419383,
+      "id": 2
+    },
+    {
+      "requestedId": 5,
+      "plumberId": 1,
+      "date_created": 1660322018962,
+      "id": 3
+    },
+    {
+      "requestedId": 7,
+      "plumberId": 1,
+      "date_created": 1660323179983,
+      "id": 5
+    },
+    {
+      "requestedId": 8,
+      "plumberId": 1,
+      "date_created": 1660528995089,
+      "id": 6
+    },
+    {
+      "requestedId": 11,
+      "plumberId": 1,
+      "date_created": 1660592948422,
+      "id": 7
+    },
+    {
+      "requestedId": 10,
+      "plumberId": 2,
+      "date_created": 1660593198114,
+      "id": 11
+    },
+    {
+      "requestedId": 12,
+      "plumberId": 2,
+      "date_created": 1660599714047,
+      "id": 12
+    }
+  ],
+  "requests": [
+    {
+      "description": "Flooded bathtub",
+      "address": "1800 Crystal Way",
+      "budget": "400",
+      "neededBy": "2022-08-14",
+      "id": 5
+    },
+    {
+      "description": "Drain in sink is clogged",
+      "address": "402 Chestnut Park",
+      "budget": "200",
+      "neededBy": "2022-08-16",
+      "id": 6
+    },
+    {
+      "description": "kitchen sink drain is clogged",
+      "address": "241 Magnolia St",
+      "budget": "500",
+      "neededBy": "2022-08-17",
+      "id": 7
+    },
+    {
+      "description": "Rusted pipe",
+      "address": "403 Colbert Way",
+      "budget": "300",
+      "neededBy": "2022-08-17",
+      "id": 8
+    },
+    {
+      "description": "Pipe burst",
+      "address": "304 Sandy River",
+      "budget": "200",
+      "neededBy": "2022-08-18",
+      "id": 9
+    },
+    {
+      "description": "Flooded toilet ",
+      "address": "38 Morning Stroll ",
+      "budget": "100",
+      "neededBy": "2022-08-23",
+      "id": 10
+    },
+    {
+      "description": "drain clogged",
+      "address": "440 Chestnut Way",
+      "budget": "200",
+      "neededBy": "2022-08-17",
+      "id": 11
+    },
+    {
+      "description": "Water leaking into bathroom",
+      "address": "394 Cloud St",
+      "budget": "400",
+      "neededBy": "2022-08-18",
+      "id": 12
+    },
+    {
+      "description": "Rusted pipe needs replacing",
+      "address": "293 Star Rd",
+      "budget": "200",
+      "neededBy": "2022-08-19",
+      "id": 13
+    },
+    {
+      "description": "Unknown leakage in kitchen",
+      "address": "392 Le Loo Rd",
+      "budget": "1000",
+      "neededBy": "2022-08-18",
+      "id": 14
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+.field {
+    display: flex; 
+    flex-direction: column;
+    padding: 1em; 
+    font-size: 17px; 
+}
+
+.button {
+    padding: 1em; 
+    margin-top: .5em;
+    background-color: 	 #3939ac; 
+    color:antiquewhite; 
+    font-size: 15px;
+}
+
+.complete {
+    background-color:  #ffcccc; 
+    list-style-type: none; 
+   
+    width: 600px;
+    padding: 0.25em; 
+    
+    
+}
+
+.incomplete {
+    list-style-type: none; 
+  
+    width: 600px; 
+    padding: 0.25em; 
+}
+
+.complete::before {
+    content: "⚒️"; 
+    padding-right: 0.5em;
+}
+
+.incomplete::before {
+    content: "⚒️"; 
+    padding-right: 0.4em;
+}
+.request__delete {
+    background-color: #b31aff; 
+    color: white;
+    margin-left: auto; 
+     
+    
+    
+}
+

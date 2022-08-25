@@ -7,7 +7,7 @@ const applicationState = {
 
 
 //the following function gets data from an api (outside source) and puts that data into the applicationState object above
-const API = "http://localhost:8088" 
+const API = "https://orca-app-kaf47.ondigitalocean.app" 
 
 export const fetchRequests = () => {
     return fetch(`${API}/requests`) //this /requests is coming from database.json api
